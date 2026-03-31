@@ -22,7 +22,7 @@ Esta versão 6.0 utiliza o motor **Faster-Whisper (CTranslate2)**, sendo até 4x
 
 O transcritor depende da ferramenta **FFmpeg** para equalizar e segmentar as gravações. Por transparência e segurança, recomendamos que você baixe a versão oficial:
 
-1. **Download:** [Gyan.dev - FFmpeg Shared Build](https://www.gyan.dev/ffmpeg/builds/ffmpeg-master-latest-win64-gpl-shared.zip)
+1. **Download:** [Gyan.dev - FFmpeg Shared Build](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-8.0.1-full_build-shared.7z)
 2. **Instalação:** Extraia os arquivos em uma pasta de sua preferência (ex: `C:\ffmpeg`).
 3. **Variável de Ambiente:** Adicione o caminho da pasta `bin` (ex: `C:\ffmpeg\bin`) à variável de ambiente `PATH` do seu Windows.
 
