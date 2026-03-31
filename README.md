@@ -4,6 +4,8 @@ O **Transcritor de Reuniões** é uma ferramenta de alta performance para conver
 
 Esta versão 6.0 utiliza o motor **Faster-Whisper (CTranslate2)**, sendo até 4x mais rápida que as versões anteriores e otimizada para rodar em CPUs comuns com baixo consumo de memória RAM.
 
+<img width="736" height="593" alt="image" src="https://github.com/user-attachments/assets/2300f613-1877-4cae-9b48-4b358ec917f1" />
+
 ---
 
 ## ✨ Destaques da Versão 6.0
