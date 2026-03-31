@@ -10,7 +10,7 @@ Esta versão 6.0 utiliza o motor **Faster-Whisper (CTranslate2)**, sendo até 4x
 - **Motor:** Faster-Whisper (implementação CTranslate2 otimizada).
 - **Modelo:** `Medium` (Equilíbrio ideal entre velocidade e precisão para Português).
 - **Equalização e Normalização:** Pré-processamento via FFmpeg para equalizar volumes de diferentes participantes e melhorar a clareza da voz antes da transcrição.
-- **Segmentação Corporativa:** Processamento do áudio em blocos de 60 segundos, garantindo estabilidade de memória e fluidez no log.
+- **Segmentação:** Processamento do áudio em blocos de 60 segundos, garantindo estabilidade de memória e fluidez no log.
 - **Privacidade:** 100% Offline. Nenhum dado ou áudio sai da sua máquina.
 - **Interface:** Controle total com botões de Play, Pause e Stop.
 
@@ -123,4 +123,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
-*"Passos firmes e seguros: Evoluindo a transcrição com simplicidade e confiança."*
+*"Reto é passo do justo; reto é o seu caminho."*
