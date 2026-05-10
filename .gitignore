@@ -1,0 +1,26 @@
+# Ambiente virtual Python
+venv/
+
+# Build Nuitka
+build/
+
+# Modelo de IA (arquivos grandes — baixar separadamente conforme README)
+modelos/
+
+# Instalador gerado
+installer/Output/
+
+# Arquivos gerados pelo app em execução
+output/
+logs/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Windows
+Thumbs.db
+desktop.ini
