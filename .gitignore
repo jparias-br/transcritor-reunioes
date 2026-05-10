@@ -15,6 +15,15 @@ output/
 logs/
 temp/
 
+# Versões anteriores
+Anteriores/
+
+# Arquivos pessoais / notas
+about.txt
+
+# Claude Code (memória de projeto — uso local apenas)
+.claude/
+
 # Python
 __pycache__/
 *.pyc
