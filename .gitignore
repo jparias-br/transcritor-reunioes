@@ -7,8 +7,8 @@ build/
 # Modelo de IA (arquivos grandes — baixar separadamente conforme README)
 modelos/
 
-# Instalador gerado
-installer/Output/
+# Pasta do Inno Setup (script + output)
+installer/
 
 # Arquivos gerados pelo app em execução
 output/
