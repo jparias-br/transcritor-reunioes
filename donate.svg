@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="54">
+  <!-- Fundo verde arredondado -->
+  <rect width="220" height="54" rx="27" fill="#2E7D32"/>
+  <!-- Círculo do ícone à esquerda -->
+  <circle cx="35" cy="27" r="19" fill="#1B5E20"/>
+  <!-- Símbolo $ -->
+  <text x="35" y="34" text-anchor="middle" fill="white" font-size="22" font-weight="bold" font-family="Arial">$</text>
+  <!-- Texto DONATION -->
+  <text x="132" y="35" text-anchor="middle" fill="white" font-size="20" font-weight="bold" font-style="italic" font-family="Arial" letter-spacing="2">DONATION</text>
+</svg>
