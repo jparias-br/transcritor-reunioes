@@ -1,10 +1,10 @@
 # 🎙️ Transcritor de Reuniões v7.0 (Faster-Whisper)
 
-[![Donation](donate.svg)](https://ko-fi.com/jparias)
-
 O **Transcritor de Reuniões** é uma ferramenta de alta performance para conversão de áudio em texto, focada em privacidade total (100% offline) e precisão gramatical para o português do Brasil.
 
 Utiliza o motor **Faster-Whisper (CTranslate2)**, otimizado para rodar em CPUs comuns com baixo consumo de memória RAM.
+
+[![Donation](donate.svg)](https://ko-fi.com/jparias)
 
 | Aba Arquivo | Aba Ao Vivo |
 |:-----------:|:-----------:|
